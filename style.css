@@ -1,0 +1,56 @@
+.card1{
+    width: 200px;
+    height: 300px;
+    background-color: aqua;
+    margin: 10px;
+    border: 1px solid red;
+    border-radius: 20px;
+    box-shadow: 1px 1px 6px grey;
+}
+.card2{
+    width: 200px;
+    height: 300px;
+    background-color: aqua;
+    margin: 10px;
+    border: 1px solid red;
+    border-radius: 20px;
+    box-shadow: 1px 1px 6px grey;
+}
+.card3{
+    width: 200px;
+    height: 300px;
+    background-color: aqua;
+    margin: 10px;
+    border: 1px solid red;
+    border-radius: 20px;
+    box-shadow: 1px 1px 6px grey;
+}
+.main_car1{
+    display: flex;
+    flex-direction: row;
+}
+.winoDocu{
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+.time{
+    font-size: 60px;
+    background-color: lightblue;
+    color: black;
+    padding: 10px;
+}
+.box{
+    padding-top: 20px;
+    width: 200px;
+    height: 100px;
+    background-color: blueviolet;
+}
+.formTextsms{
+    position: absolute;
+    left: 200px;
+    background-color:grey;
+    border: 2px solid #000;
+    border-radius: 20px;
+}
